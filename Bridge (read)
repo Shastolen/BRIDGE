@@ -1,0 +1,11 @@
+# BRIDGE to Japan
+
+An Android travel app that curates Japan routes, lets travelers collect places and photos in LOCO DEX, and builds an Instagram-ready map and photo carousel.
+
+## Judges — start here
+
+- [Try the app in your browser](https://bridge-to-japan-judge-demo.jammycharm512.chatgpt.site) — tap **Explore BRIDGE as a guest**. No setup.
+- [Download the Android APK](https://bridge-to-japan-judge-demo.jammycharm512.chatgpt.site) — tap **Download the APK** on the same page.
+- [Download the complete source code](https://bridge-to-japan-judge-demo.jammycharm512.chatgpt.site/source.html) — Android project, 53 place photos, database migrations, and backend functions.
+
+**The Android app is the full product.** It connects to a live Supabase backend for accounts, profiles, places, ratings, and saved travel data. The website is a quick guest preview for judges.
